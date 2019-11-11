@@ -1,4 +1,4 @@
-## Automated Soil pH Adjuster
+# Automated Soil pH Adjuster
 ![20190530_133748](https://user-images.githubusercontent.com/49622234/62903977-8b9f5400-bd32-11e9-8bec-8b1f7405d618.jpg)
 
 The Automated Soil pH Adjuster is a prototype device that adjusts the pH of the soil to the optimal level for a particular plant. The user would set the pH that they would like the soil to be, and the device would add either an acid or a base to adjust the acidity or basicity of the water. When the soil becomes dry, the device will pump the pH adjusted water into the pot of soil for the plant to use. The device would also log the pH, humidity, temperature, and soil moisture onto an SD card as well as display it to a computer screen. This device can help beginner gardeners with growing healthy plants and vegetables. Farmers can also use this device to improve the quality of their crops and increase crop yield.
